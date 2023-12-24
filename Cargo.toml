@@ -1,0 +1,13 @@
+[package]
+name = "web_ui_module_interface"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = { version = "4",features=["macros"],  default-features = false }
+actix-files = "0.6"
+actix-rt = "2.5"
+serde = { version = "1.0", features = ["derive"]  }
+sysinfo = "0.30"
