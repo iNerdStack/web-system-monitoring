@@ -38,7 +38,7 @@ Run the executable:
 
 ```bash
 
-./target/release/system-monitor-web
+./target/release/web-system-monitoring
 
 ```
 

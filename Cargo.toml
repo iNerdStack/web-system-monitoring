@@ -1,5 +1,5 @@
 [package]
-name = "web_ui_module_interface"
+name = "web-system-monitoring"
 version = "0.1.0"
 edition = "2021"
 
